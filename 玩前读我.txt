@@ -1,3 +1,5 @@
+注意：打开github网站后请点击game.zip再点击download下载本游戏，否则解压为空，详情看1,2图。
+
 解压game.zip后点击juntuan.exe开始游戏。
 
 
