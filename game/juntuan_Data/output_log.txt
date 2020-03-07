@@ -7,30 +7,30 @@ Direct3D:
     VRAM:     4053 MB
     Driver:   25.21.14.1722
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\mygamess\5\juntuan_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\mygamess\5\juntuan_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\mygamess\5\juntuan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\mygamess\5\juntuan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\mygamess\5\juntuan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\mygamess\5\juntuan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\mygamess\5\juntuan_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\mygamess\5\juntuan_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\mygamess\5\juntuan_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading D:\mygamess\5\juntuan_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: D:\ckgame\game\juntuan_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\ckgame\game\juntuan_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\ckgame\game\juntuan_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\ckgame\game\juntuan_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\ckgame\game\juntuan_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\ckgame\game\juntuan_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\ckgame\game\juntuan_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\ckgame\game\juntuan_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\ckgame\game\juntuan_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\ckgame\game\juntuan_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
 - Completed reload, in  0.022 seconds
-Platform assembly: D:\mygamess\5\juntuan_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\mygamess\5\juntuan_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\ckgame\game\juntuan_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\ckgame\game\juntuan_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.218400 ms
+UnloadTime: 1.067400 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 3210 -> priority: 1 
-  Thread -> id: 3a50 -> priority: 1 
+  Thread -> id: e54 -> priority: 1 
+  Thread -> id: 328 -> priority: 1 
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.681800 ms
+UnloadTime: 2.417000 ms
 
 Unloading 58 unused Assets to reduce memory usage. Loaded Objects now: 1442.
-Total: 0.531300 ms (FindLiveObjects: 0.082400 ms CreateObjectMapping: 0.053700 ms MarkObjects: 0.370200 ms  DeleteObjects: 0.024200 ms)
+Total: 0.531700 ms (FindLiveObjects: 0.087400 ms CreateObjectMapping: 0.068100 ms MarkObjects: 0.354900 ms  DeleteObjects: 0.020200 ms)
 
